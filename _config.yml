@@ -4,4 +4,3 @@ markdown:    rdiscount
 pygments:    true
 permalink:   none
 highlighter: pygments
-theme: jekyll-theme-slate
